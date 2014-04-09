@@ -1,1 +1,1 @@
-.BAT EXEC /.../DOCUME~/dotExe.txt
+.BAT EXEC /.../DOCUMENNNNNTS/dotExe.txt
