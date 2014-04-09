@@ -1,0 +1,9 @@
+Function1(int as integer, str as string)
+	dim myInt as integer
+	dim myStr as string
+
+	myInt = int*5
+
+	myStr = str & " " & myInt
+
+	return myStr	

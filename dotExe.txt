@@ -1,0 +1,1 @@
+.BAT EXEC /.../DOCUME~/dotExe.txt
